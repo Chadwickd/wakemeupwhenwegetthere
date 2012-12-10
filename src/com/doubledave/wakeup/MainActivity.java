@@ -1,4 +1,4 @@
-package com.example.wakemeupwhenwegetthere;
+package com.doubledave.wakeup;
 
 import android.os.Bundle;
 import android.app.Activity;
