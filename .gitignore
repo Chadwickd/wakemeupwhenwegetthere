@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+
+# Binary/Generated code folders #
+bin
+gen
+
+*.swp
+.DS_Store
